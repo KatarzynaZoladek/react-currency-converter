@@ -1,3 +1,24 @@
+# React-Currency-Converter
+
+<img src="https://github.com/KatarzynaZoladek/react-currency-converter/blob/main/public/image/screenshot.png?raw=true" width="300" height="200"/>
+
+## Demo
+
+https://katarzynazoladek.github.io/react-currency-converter/
+
+## Technologies
+
+- HTML
+- CSS
+- JavaScript
+- React
+- BEM Convention
+
+## General info
+The currency converter allows users to easily and quickly convert the value of one currency to another. 
+The application includes an interface that allows you to enter an amount and select three currencies to convert. 
+It takes into account intuitiveness and simplicity of use.
+
 ## Available Scripts
 
 In the project directory, you can run:
