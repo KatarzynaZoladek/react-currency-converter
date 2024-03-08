@@ -1,6 +1,6 @@
 # React-Currency-Converter
 
-<img src="https://github.com/KatarzynaZoladek/react-currency-converter/blob/main/public/image/screenshot.png?raw=true" width="300" height="200"/>
+<img src="https://github.com/KatarzynaZoladek/react-currency-converter/blob/main/public/image/screenshot.png?raw=true" width="600" height="300"/>
 
 ## Demo
 
