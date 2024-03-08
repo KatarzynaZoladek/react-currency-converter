@@ -1,4 +1,6 @@
+import { useState } from "react";
 import { currencies } from "./currencies";
+import { Form } from "./Form";
 import './App.css';
 
 function App() {
@@ -11,7 +13,7 @@ function App() {
 
         setResult({
             sourceAmount: +amount,
-            targetAmount: amount * rate,
+            targetAmount: amount / rate,
             currency,
         });
     }
@@ -25,3 +27,5 @@ function App() {
         </div>
     );
 }
+
+export default App;
