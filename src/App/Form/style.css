@@ -1,0 +1,52 @@
+.form__header {
+    text-align: center;
+    padding: 20px 20px;
+    margin: auto;
+    font-family: 'LAto', sans-serif;
+    font-size: 40px;
+    color: black;
+}
+
+.form__labelText {
+    padding: 20px 20px;
+    margin: 0 20px;
+    font-family: 'LAto', sans-serif;
+}
+
+.form__result {
+    padding: 30px 30px;
+    margin: auto;
+    font-family: 'LAto', sans-serif;
+}
+
+.form__field {
+    padding: 10px 20px;
+    width: 100%;
+    margin: 10px 0;
+    font-family: 'LAto', sans-serif;
+    font-weight: bold;
+}
+
+.form__button {
+    margin: auto;
+    text-align: center;
+    padding: 20px;
+    width: 100%;
+    font-family: 'LAto', sans-serif;
+    font-weight: bold;
+    background-color: hsl(49, 76%, 60%);
+    border: none;
+    border-radius: 5px;
+}
+
+.form__button:hover {
+    background-color: hsl(49, 76%, 80%);
+}
+
+.form__button:active {
+    background-color: hsl(49, 76%, 70%);
+}
+
+.form__info {
+    font-family: 'Lato', sans-serif;
+}
